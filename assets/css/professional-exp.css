@@ -1,0 +1,30 @@
+.professional-exp {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.professional-exp li {
+    margin-bottom: 1rem;
+}
+
+.professional-exp li .period {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.professional-exp li .period::before {
+    content: "";
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/assets/img/icons/calendar.svg');
+    margin-right: .5rem;
+}
