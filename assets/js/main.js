@@ -33,11 +33,17 @@ function updatehardSkills(profileData) {
     hardSkills.innerHTML = profileData.skills.hardSkills.map(skills => `<li><img src="${skills.logo}" alt="${skills.name}" title="${skills.name}"></li>`).join('')
 }
 
+function updateLanguages(profileData) {
+    const languages = document.getElementById('profile.languages')
+
+    languages.innerHTML = profileData.languages.map(languages => `<li>${languages}</li>`).join('')
+}
+
 (async () => {
 
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updatehardSkills(profileData)
-
+    updateLanguages(profileData)
 })()
