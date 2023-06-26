@@ -45,13 +45,13 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Pokedex da DIO feito em NodeJs, HTML, CSS",
+        "url": "https://github.com/YagoBusse/Pokedex_Js_DIO",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Portfolio Web",
+        "url": "https://github.com/YagoBusse/portfolio",
         "github": true
       }
     ],
