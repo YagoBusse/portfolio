@@ -9,35 +9,33 @@
       "hardSkills": [
         {
           "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/nodejs.svg"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/html.svg"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/css.svg"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/git.svg"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "IBM-Watson",
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/ibm-watson.svg"
         }
       ],
       "softSkills": [
-        "Empatia",
-        "Liderança",
-        "Trabalho em equipe",
-        "Flexibilidade",
-        "Organização"
+        "Proativo",
+        "Otimo trabalho em equipe",
+        "Criativo",
+        "Paciente",
+        "Organizado",
+        "Facilidade com Comunicação",
+        "Eficiente"
       ]
     },
     "languages": [
