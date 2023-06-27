@@ -9,23 +9,23 @@
       "hardSkills": [
         {
           "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/nodejs.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/129f8803124500e14c834c21168df96737680fe2/data/img/nodejs.svg"
         },
         {
           "name": "HTML5",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/html.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/129f8803124500e14c834c21168df96737680fe2/data/img/html.svg"
         },
         {
           "name": "CSS3",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/css.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/129f8803124500e14c834c21168df96737680fe2/data/img/css.svg"
         },
         {
           "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/git.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/129f8803124500e14c834c21168df96737680fe2/data/img/git.svg"
         },
         {
           "name": "IBM-Watson",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/ibm-watson.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/129f8803124500e14c834c21168df96737680fe2/data/img/ibm-watson.svg"
         }
       ],
       "softSkills": [
