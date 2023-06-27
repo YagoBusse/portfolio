@@ -57,19 +57,14 @@
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Back-End Developer Jr / IBM Brasil",
+        "period": "05/2021 - Current",
+        "description": "Desenvolvedor em projetos Back-End, com experiências em NodeJs, Watson Studio, MongoDb, HTML 5 e CSS 3.\nMetodologias de trabalho Agil, Scrum e Kanbam."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Estágio Developer / IBM Brasil",
+        "period": "02/2020 - 05/2021",
+        "description": "Projetos de desenvelvimento com Java, Spring Boot, IBM Cloud e Projeto com NodeJs e Watson Studio"
       }
     ]
   }
