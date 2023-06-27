@@ -59,12 +59,12 @@
       {
         "name": "Back-End Developer Jr / IBM Brasil",
         "period": "05/2021 - Current",
-        "description": "Desenvolvedor em projetos Back-End, com experiências em NodeJs, Watson Studio, MongoDb, HTML 5 e CSS 3.\nMetodologias de trabalho Agil, Scrum e Kanbam."
+        "description": "Desenvolvedor em projetos Back-End, com experiências em NodeJs, Watson Assistant, MongoDb, HTML 5 e CSS 3.\nMetodologias de trabalho Agil, Scrum e Kanbam."
       },
       {
         "name": "Estágio Developer / IBM Brasil",
         "period": "02/2020 - 05/2021",
-        "description": "Projetos de desenvelvimento com Java, Spring Boot, IBM Cloud e Projeto com NodeJs e Watson Studio"
+        "description": "Projetos de desenvelvimento com Java, Spring Boot, IBM Cloud e Projeto com NodeJs e Watson Assistant"
       }
     ]
   }
