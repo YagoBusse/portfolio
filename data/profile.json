@@ -9,23 +9,23 @@
       "hardSkills": [
         {
           "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/nodejs.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/nodejs.svg"
         },
         {
           "name": "HTML5",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/html.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/html.svg"
         },
         {
           "name": "CSS3",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/css.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/css.svg"
         },
         {
           "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/git.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/git.svg"
         },
         {
           "name": "IBM-Watson",
-          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4/assets/img/icons/tools/ibm-watson.svg"
+          "logo": "https://raw.githubusercontent.com/YagoBusse/portfolio/46fc0e097ee693d252e13469870a214715e207f4assets/img/icons/tools/ibm-watson.svg"
         }
       ],
       "softSkills": [
